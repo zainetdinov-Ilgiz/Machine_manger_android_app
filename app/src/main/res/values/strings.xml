@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Machine_Manager</string>
+    <string name="text">Диспетчер приветствует вас. Выберите действие.</string>
+    <string name="button">Просмотреть загрузку станков</string>
+    <string name="button2">Добавить Заготовку в очередь</string>
+    <string name="button4">Добавить станок в базу данных</string>
+    <string name="button5">Добавить деталь в базу данных</string>
+    <string name="exit">Выход</string>
+    <string name="text2">Выберите станок</string>
+    <string name="mill">Фрезерный станок</string>
+    <string name="turn">Токарный станок</string>
+    <string name="type_mill">Фрезерный</string>
+    <string name="type_turn">Токарный</string>
+    <string name="type_operation_mill">Фрезерная</string>
+    <string name="type_operation_turn">Токарная</string>
+    <string name="machine_number">Введите номер станка</string>
+    <string name="type_of_machine">Установите тип станка</string>
+    <string name="ready">Готово</string>
+    <string name="cancel">Отменить</string>
+    <string name="enter_Detail_Number">Введите номер детали</string>
+    <string name="detail_Number">Номер детали</string>
+    <string name="enter_Operation_Number">Введите номер операции</string>
+    <string name="operation_Number">Номер операции</string>
+    <string name="type_of_operation">Выберите тип операции</string>
+    <string name="enter_time_of_operation">Введите операционное время</string>
+    <string name="enter_Batch_Number">Введите номер партии</string>
+    <string name="enter_Quantity_Of_Details">Введите количество заготовок</string>
+    <string name="choice_Detail_Number">Выберите номер детали</string>
+    <string name="error_Edit_Detail">Ошибка при добавлении детали</string>
+    <string name="back">Назад</string>
+
+</resources>
